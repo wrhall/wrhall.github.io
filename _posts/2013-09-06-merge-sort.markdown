@@ -100,4 +100,4 @@ A quick ruby note: `Array#shift` is a method that pulls the first element off of
 
 As well, `Array#<<` is equivalent to an `append` method in other languages: it adds the element to the right of the `<<` to the back end of the array. [You can read the docs here](http://www.ruby-doc.org/core-2.0.0/Array.html#method-i-3C-3C)
 
-Finally, the complete code can be found here: https://gist.github.com/wrhall/6467755
+Finally, the complete code can be found in [this gist](https://gist.github.com/wrhall/6467755)
