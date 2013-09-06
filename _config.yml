@@ -1,0 +1,4 @@
+name: A small blog
+markdown: redcarpet
+pygments: true
+permalink: pretty
