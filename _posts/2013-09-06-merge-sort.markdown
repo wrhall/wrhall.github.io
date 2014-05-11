@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Merge Sort"
-date:   2013-09-06 00:00:00
+title: Merge Sort
+date: {}
 categories: ruby blog
+published: true
 ---
 
 Earlier this year, a friend and I decided to implement some sorting algorithms in ruby.
@@ -98,6 +99,6 @@ end
 
 A quick ruby note: `Array#shift` is a method that pulls the first element off of an array, returning the value of that element (to just look at the first element, use `Array#first`). [More details in the documentation](http://www.ruby-doc.org/core-2.0.0/Array.html#method-i-shift)
 
-As well, `Array#<<` is equivalent to an `append` method in other languages: it adds the element to the right of the `<<` to the back end of the array. [You can read the docs here](http://www.ruby-doc.org/core-2.0.0/Array.html#method-i-3C-3C)
+As well, `Array#<<` is equivalent to an `append` method in other languages: it adds the element to the back end of the array. [You can read the docs here](http://www.ruby-doc.org/core-2.0.0/Array.html#method-i-3C-3C)
 
 Finally, the complete code can be found in [this gist](https://gist.github.com/wrhall/6467755)
